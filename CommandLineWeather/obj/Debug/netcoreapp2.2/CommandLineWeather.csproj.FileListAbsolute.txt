@@ -1,0 +1,11 @@
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\bin\Debug\netcoreapp2.2\CommandLineWeather.deps.json
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\bin\Debug\netcoreapp2.2\CommandLineWeather.runtimeconfig.json
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\bin\Debug\netcoreapp2.2\CommandLineWeather.runtimeconfig.dev.json
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\bin\Debug\netcoreapp2.2\CommandLineWeather.dll
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\bin\Debug\netcoreapp2.2\CommandLineWeather.pdb
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\obj\Debug\netcoreapp2.2\CommandLineWeather.csprojAssemblyReference.cache
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\obj\Debug\netcoreapp2.2\CommandLineWeather.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\obj\Debug\netcoreapp2.2\CommandLineWeather.AssemblyInfoInputs.cache
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\obj\Debug\netcoreapp2.2\CommandLineWeather.AssemblyInfo.cs
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\obj\Debug\netcoreapp2.2\CommandLineWeather.dll
+C:\Users\matth\Documents\Github\CommandLineWeather\CommandLineWeather\obj\Debug\netcoreapp2.2\CommandLineWeather.pdb
